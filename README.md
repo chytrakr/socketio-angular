@@ -1,2 +1,2 @@
-# socketio---Angular
+# socketio-Angular
 Socket implementation with Angular
